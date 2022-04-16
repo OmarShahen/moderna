@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/moderna/static/css/main.c15e2e61.css",
+    "main.js": "/moderna/static/js/main.2fc5ad08.js",
+    "static/js/787.da9b7d67.chunk.js": "/moderna/static/js/787.da9b7d67.chunk.js",
+    "static/media/tech-laptop.PNG": "/moderna/static/media/tech-laptop.e809a214dc05029cc1b1.PNG",
+    "static/media/furniture-ipad.PNG": "/moderna/static/media/furniture-ipad.0e91c909af70ee9bbe65.PNG",
+    "static/media/car-spa.PNG": "/moderna/static/media/car-spa.506d5e5aaba1ed6e090e.PNG",
+    "static/media/parking-app.jpeg": "/moderna/static/media/parking-app.e2b7aa28c8eefed40115.jpeg",
+    "static/media/expense-tracker.jpeg": "/moderna/static/media/expense-tracker.16f08740deae41945708.jpeg",
+    "static/media/chat-app.jpeg": "/moderna/static/media/chat-app.05c8ca9f85ad2a656dc6.jpeg",
+    "static/media/logo.png": "/moderna/static/media/logo.cea2b17c50d8f8bee432.png",
+    "static/media/side-home-image.webp": "/moderna/static/media/side-home-image.91ac0658cd75326537fd.webp",
+    "static/media/e-learning.svg": "/moderna/static/media/e-learning.31d6e910aff26864966df6fef29ccbf0.svg",
+    "static/media/CMS.svg": "/moderna/static/media/CMS.5f4e6299666a9278ed15b93148d89d3f.svg",
+    "static/media/node.js.svg": "/moderna/static/media/node.js.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/medical.svg": "/moderna/static/media/medical.4bc6e21ad08643bb0deca1bedc358bfa.svg",
+    "static/media/python.svg": "/moderna/static/media/python.d32e17a67e47af5af825d688825deb85.svg",
+    "static/media/ecommerce.svg": "/moderna/static/media/ecommerce.01069123dc2d3d204b3f140cb768ef4a.svg",
+    "static/media/UI-UX-design.svg": "/moderna/static/media/UI-UX-design.a047c691f53877ef9e88ee68174739e9.svg",
+    "index.html": "/moderna/index.html",
+    "static/media/web-dev.svg": "/moderna/static/media/web-dev.9ca6f35fedd4367b97719600abfd5494.svg",
+    "static/media/mobile-dev.svg": "/moderna/static/media/mobile-dev.d6b504cce42c9097f4ef4553c0350c82.svg",
+    "static/media/figma.svg": "/moderna/static/media/figma.7ec53a4a5c6c13b7d459f072fc73adf1.svg",
+    "static/media/swift.svg": "/moderna/static/media/swift.bd8ff30828866d6e082b61b98840346d.svg",
+    "main.c15e2e61.css.map": "/moderna/static/css/main.c15e2e61.css.map",
+    "main.2fc5ad08.js.map": "/moderna/static/js/main.2fc5ad08.js.map",
+    "787.da9b7d67.chunk.js.map": "/moderna/static/js/787.da9b7d67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15e2e61.css",
+    "static/js/main.2fc5ad08.js"
+  ]
+}
