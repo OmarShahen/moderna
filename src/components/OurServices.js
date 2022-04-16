@@ -1,8 +1,11 @@
 import React from 'react'
 import './our-services.css'
+import pythonImage from '../python.svg'
+import nodeImage from '../node.js.svg'
 import flutterImage from '../flutter.png'
 import javaImage from '../java.png'
 import swiftImage from '../swift.svg'
+import figmaImage from '../figma.svg'
 import adobeImage from '../adobe-suite.png'
 
 const OurServices = () => {
@@ -24,11 +27,11 @@ const OurServices = () => {
                         </h3>
                         <div className="col-sm-12 field-tech-icons">
                             <p>
-                            <i class='fab fa-node-js'></i>
+                            <img src={nodeImage} alt="node.js icon" />
                             Node.js
                             </p>
                             <p>
-                                <i class='fab fa-python'></i>
+                            <img src={pythonImage} alt="python icon" />
                                 python
                             </p>
                         </div>
@@ -107,7 +110,7 @@ const OurServices = () => {
                         </h3>
                         <div className="col-sm-12 field-tech-icons">
                             <p>
-                                <i class='fab fa-figma'></i>
+                            <img src={figmaImage} alt="figma icon" className="figma-icon"/>
                                 Figma
                             </p>
                             <p>

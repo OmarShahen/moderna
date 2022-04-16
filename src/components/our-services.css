@@ -9,6 +9,11 @@
     padding-bottom: 7rem; 
 }
 
+.our-services .figma-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
 @media only screen and (max-width: 1000px) {
 
     .our-services h1 {
