@@ -1,0 +1,361 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+header {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: #fff;
+  padding-bottom: 0;
+}
+
+header h1 {
+  font-weight: lighter;
+  display: inline-block;
+}
+
+.logo {
+  width: 10rem;
+  height: 6rem;
+  display: inline-block;
+}
+
+header ul li{
+  list-style-type: none;
+  display: inline-block;
+  float: right;
+  margin: 1rem 1rem 0 1rem;
+}
+
+header ul li:hover {
+  color: #5642F7;
+  cursor: pointer;
+}
+
+header img {
+  float: left;
+}
+
+a{
+  text-decoration: none;
+  color: #000;
+}
+
+a .active {
+  color: #5642F7;
+}
+
+.selected {
+  color: #5642F7;
+}
+a:hover {
+  color: #5642F7;
+}
+
+.is-active {
+  color: #5642F7;
+}
+
+.core {
+  padding: 8rem 0  6rem 0;
+  font-weight: bolder;
+  margin-bottom: 5rem;
+}
+
+.core .small-screen {
+  display: none;
+}
+
+.core img {
+  width: 100%;
+  height: 100%;
+}
+
+.core p {
+  padding-top: 5rem;
+  font-size: 2.5rem;
+}
+
+.core span{
+  color: #5642F7;
+}
+
+
+.core button {
+  background-color: #5642F7;
+  color: #fff;
+  border: 0;
+  padding: 1rem 4rem;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.services {
+  background-color: #F2F2F2;
+  padding-bottom: 5rem;
+}
+
+.services h3 {
+  font-weight: bold;
+  padding-top: 5rem;
+}
+
+.line {
+  background-color: #5642F7;
+  width: 6rem;
+  height: .2rem;
+  margin: auto;
+}
+
+.services-card {
+  background-color: #fff;
+  padding: 1rem;
+  margin-top: 2rem;
+  height: 17rem;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.services-card h4 {
+  padding: 1rem;
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.services-card p {
+  color: #8C8C8C;
+  font-size: .7rem;
+  text-align: left;
+}
+
+.industries {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.industries h3 {
+  font-weight: bold;
+}
+
+.industries .line {
+  width: 13rem;
+}
+
+.industries .row {
+  padding-top: 7rem;
+}
+
+.industries p {
+  padding: 2rem;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.portfolio {
+  margin-bottom: 5rem;
+}
+
+.portfolio .project {
+  margin:0 1rem;
+  padding: 1rem;
+}
+
+.portfolio h3 {
+  font-weight: bold;
+  padding: 5rem;
+}
+
+.portfolio h4, .portfolio h5 {
+  font-weight: bold;
+}
+
+.tech img {
+  width: 100%;
+  height: 90%;
+}
+
+.project-description {
+  text-align: left;
+  padding: 3rem 0 2rem 5rem;
+}
+
+.portfolio .row {
+  margin-bottom: 5rem;
+}
+
+.portfolio p {
+  color: #8C8C8C
+}
+
+.portfolio .small-screen {
+  display: none;
+}
+
+.ipad-image {
+  width: 60%;
+  height: 80%;
+}
+
+.car-spa-image {
+  width: 60%;
+  height: 80%;
+}
+
+.parking-image {
+  width: 60%;
+  height: 80%;
+}
+
+
+.contact-us {
+  color: #8C8C8C;
+  font-size: .8rem;
+  padding: 2rem 0 5rem 0;  
+}
+
+.contact-us span{
+  color: #5642F7;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.contact-us img {
+  width: 15rem;
+  height: 10rem;
+  float: left; 
+} 
+
+.contact-us button {
+  background-color: #5642F7;
+  color: #fff;
+  border: 0;
+  padding: .5rem 1rem;
+  float: left;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.company-description {
+  padding: 0 2rem 4rem 0;
+}
+
+
+.contact-us-way h3{
+  color: #000;
+  font-weight: bold;
+}
+
+.contact-us-way .line {
+  float: left;
+}
+
+.contact-us-way ul li {
+  list-style-type: none;
+  padding-top: 1rem;
+}
+
+.contact-us-way ul li i {
+  font-size: 1.2rem;
+  color: #8C8C8C;
+}
+
+.contact-us-way ul li span {
+  color: #000;
+  font-size: 1rem;
+  font-weight: normal;
+  padding-left: 1rem;
+}
+
+.contact-us-way ul {
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+.modal .contact-us-form {
+  margin-top: 0;
+}
+
+.modal .btn-close {
+  background-color: #fff;
+}
+.modal h3 {
+  color: #000;
+  font-weight: bold;
+}
+
+.modal label {
+  color: #000;
+}
+
+footer {
+  font-size: 1rem;
+}
+
+footer span {
+  color: #5642F7;
+}
+
+.burger-menu {
+  display: none;
+}
+
+@media only screen and (max-width: 800px) {
+  .core p {
+    font-size: 1.8rem;
+  }
+
+  header img {
+    display: block;
+    float: none;
+  }
+
+  header ul li{
+    display: none;
+  }
+
+  .resp-nav-links li{
+    display: block;
+    float: none;
+  }
+
+
+  .contact-us img {
+    display: none;
+  }
+
+  .company-description img{
+    margin: auto;
+  }
+
+  .core .small-screen, .portfolio .small-screen {
+    display: block;
+  }
+  
+  .core .large-screen, .portfolio .large-screen {
+    display: none;
+  }
+
+  .burger-menu {
+    display: block;
+    font-size: 2rem;
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 0rem;
+  }
+  
+}

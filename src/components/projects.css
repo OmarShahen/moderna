@@ -1,0 +1,70 @@
+.projects {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
+
+.projects .row {
+    margin: 0;
+}
+
+.app-card {
+    margin-bottom: 5rem;
+}
+
+.projects h1 {
+    font-weight: bolder;
+    font-size: 4rem;
+    padding-bottom: 7rem;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .projects h1 {
+        font-size: 3.3rem;
+    }
+
+    .projects .app-card p {
+        text-align: center;
+    }   
+}
+
+.projects .app-card .tech-img{
+    width: 80%;
+    height: 80%;
+}
+
+.projects .furniture-img {
+    width: 50%;
+    height: 20%;
+}
+
+.projects .car-spa-img {
+    width: 50%;
+    height: 40%;
+}
+
+.projects .parking-app-img {
+    width: 40%;
+    height: 60%;
+}
+
+.projects .chat-app-img {
+    width: 40%;
+    height: 60%;
+}
+
+.projects .expense-app-img {
+    width: 40%;
+    height: 40%;
+}
+
+.projects h3 {
+    padding: 2rem 0 1rem 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.projects p {
+    color: #8C8C8C;
+}

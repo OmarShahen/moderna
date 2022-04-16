@@ -1,0 +1,43 @@
+.about-us {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
+
+.about-us h1{
+    font-weight: bolder;
+    font-size: 4rem;
+    padding-bottom: 7rem; 
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .about-us h1 {
+        font-size: 3.3rem;
+    }
+}
+
+.about-us h1 span {
+    color: #5642F7;
+}
+
+.about-us .line {
+    padding: 0;
+    float: left;
+}
+
+.about-us h3 {
+    font-weight: normal;
+    font-size: 2.4rem;
+    padding-bottom: 1rem;
+}
+
+
+.about-us p {
+    color: #8C8C8C;
+    font-size: 1.2rem;
+}
+
+.about-us p span {
+    color: #5642F7;
+    font-weight: bold;
+}

@@ -1,0 +1,54 @@
+.our-services {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
+
+.our-services h1{
+    font-weight: bolder;
+    font-size: 4rem;
+    padding-bottom: 7rem; 
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .our-services h1 {
+        font-size: 3.3rem;
+    }
+}
+
+.our-services .service {
+    margin-bottom: 3rem;
+}
+
+.our-services h3 {
+    font-weight: bold;
+    font-size: 2.4rem;
+    padding-bottom: 1rem;
+}
+
+.our-services .field-tech-icons p{
+    display: inline;
+    padding: .2rem 1rem 0rem 0rem;
+}
+
+.our-services i {
+    font-size: 1.5rem;
+    margin: 0rem 1rem;
+}
+
+.our-services .field-tech-icons img {
+    margin: 0rem 1rem;
+}
+
+.fa-node-js {
+    color: green;
+}
+
+.fa-react {
+    color: dodgerblue;
+}
+
+.our-services .services-description p{
+    padding: 1.5rem 0;
+    font-weight: normal;
+}
