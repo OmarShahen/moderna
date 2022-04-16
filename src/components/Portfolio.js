@@ -3,7 +3,6 @@ import techImage from '../projects-images/tech-laptop.PNG'
 import furnitureImage from '../projects-images/furniture-ipad.PNG'
 import carspaImage from '../projects-images/car-spa.PNG'
 import parkingImage from '../projects-images/parking-app.jpeg'
-import codingImage from '../coding.png'
 
 
 const Portfolio = () => {
