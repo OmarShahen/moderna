@@ -65,7 +65,7 @@ const Projects = () => {
                                 <div className="text-center">
                                     <img src={parkingImage} className="parking-app-img" alt="furniture-shop-image" />
                                 </div>
-                                <h3>ARKNE</h3>
+                                <h3>GO PARK</h3>
                                 <p>
                                     ARKNE is a car parking app where it helps you find nearby slots
                                     to park your car without any time wasting.
@@ -77,7 +77,7 @@ const Projects = () => {
                                 <div className="text-center">
                                     <img src={chatImage} className="chat-app-img" alt="furniture-shop-image" />
                                 </div>
-                                <h3>KLMNE</h3>
+                                <h3>SPARK</h3>
                                 <p>
                                     KLMNE is a chat app where you can text all your family members, friends
                                     and people you have their contact. 

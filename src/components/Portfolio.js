@@ -102,7 +102,7 @@ const Portfolio = () => {
                 <div className="row project">
                     <div className="col-sm-12 col-md-6 large-screen project-description">
                         <h4>
-                        ARKNE
+                        GO PARK
                         </h4>
                         <p>
                             Car Parking App

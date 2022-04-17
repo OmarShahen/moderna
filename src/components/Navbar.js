@@ -23,9 +23,11 @@ class Navbar extends Component{
     hiddenMenu = () => {
         return (<div>
             <header className="container-fluid fixed-top">
+                        <a href="/">
                         <img src={logo} alt="moderna" className="logo" />
                         <p><strong>mode</strong>rna<br/> <span>GROW SMARTER</span>
                         </p>
+                        </a>
                     <div>
                         <ul className="nav-bar-links">
 
