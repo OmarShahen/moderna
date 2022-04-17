@@ -50,7 +50,6 @@ class Navbar extends Component{
     verticalMenu = () => {
         return (<div>
             <header className="container-fluid fixed-top">
-                        <img src={logo} alt="moderna" className="logo" />
                     <div>
                         <ul className="nav-bar-links resp-nav-links">
 
