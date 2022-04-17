@@ -24,6 +24,8 @@ class Navbar extends Component{
         return (<div>
             <header className="container-fluid fixed-top">
                         <img src={logo} alt="moderna" className="logo" />
+                        <p><strong>mode</strong>rna<br/> <span>GROW SMARTER</span>
+                        </p>
                     <div>
                         <ul className="nav-bar-links">
 

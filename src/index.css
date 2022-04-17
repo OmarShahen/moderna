@@ -48,6 +48,27 @@ header img {
   float: left;
 }
 
+header p {
+  padding: 1.5rem 0 0 0;
+  margin: 0;
+  float: left;
+  font-size: 1.2rem;
+  font-weight: normal;
+  text-align: center;
+  line-height: 1rem;
+}
+
+header strong {
+  padding: 0;
+  margin: 0;
+}
+
+header span {
+  color: #5642F7;
+  font-weight: bold;
+  font-size: .6rem;
+}
+
 a{
   text-decoration: none;
   color: #000;
@@ -327,13 +348,19 @@ footer span {
 
 @media only screen and (max-width: 800px) {
 
-  .core p {
-    font-size: 1.8rem;
+  .core img {
+    width: 100%;
+    height: 100%;
   }
+
+  .core p {
+    font-size: 1.5rem;
+  }
+
 
   header img {
     display: block;
-    float: none;
+    float: left;
   }
 
   header ul li{
