@@ -13,7 +13,7 @@ const ContactUs = () => {
         emailjs.sendForm('service_y460clf', 'template_gv7ohh8', form.current, 'w1stYnu0JAZ5lOWeR')
         .then(result => console.log(result.text), error => console.log(error.text))
 
-        console.log('done')
+        e.target.reset()
 
     }
         return(

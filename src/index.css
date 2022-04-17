@@ -205,18 +205,18 @@ a:hover {
 }
 
 .ipad-image {
-  width: 60%;
-  height: 80%;
+  width: 65%;
+  height: 90%;
 }
 
 .car-spa-image {
-  width: 60%;
-  height: 80%;
+  width: 50%;
+  height: 90%;
 }
 
 .parking-image {
-  width: 60%;
-  height: 80%;
+  width: 45%;
+  height: 90%;
 }
 
 
@@ -233,8 +233,8 @@ a:hover {
 }
 
 .contact-us img {
-  width: 15rem;
-  height: 10rem;
+  width: 8rem;
+  height: 6rem;
   float: left; 
 } 
 
@@ -300,6 +300,17 @@ a:hover {
 
 .modal label {
   color: #000;
+}
+
+.success-email p{
+  /*color: #5642F7;*/
+  font-size: 1rem;
+  font-weight: normal;
+  text-align: center;
+}
+
+.success-email strong {
+  color: #5642F7;
 }
 
 footer {
